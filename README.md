@@ -18,8 +18,8 @@ My text editor is `vim`. I use `mutt` as my mail client.
 Linux Distribution
 -----------------
 
-* [Arch Linux](https://archlinux.org/) (*)
-    * [base](https://archlinux.org/packages/core/any/base/) (*): package with basic libraries and utilities.
+* [Arch Linux](https://archlinux.org/) ()
+    * [base](https://archlinux.org/packages/core/any/base/) (): package with basic libraries and utilities.
       Among them one has:
         * [bash](https://archlinux.org/packages/core/x86_64/bash/): the default shell in Arch. By `GNU`  
         * [file](https://archlinux.org/packages/core/x86_64/file/): file type identification tool.
@@ -34,7 +34,7 @@ Linux Distribution
         * [systemd](https://archlinux.org/packages/core/x86_64/systemd/): init system used by default in Arch
         * [tar](https://archlinux.org/packages/core/x86_64/tar/): manage `.tar.gz`  files
         * [xz](https://archlinux.org/packages/core/x86_64/xz/): manage `.xz` files
-    * [base-devel](https://archlinux.org/packages/core/any/base-devel/) (*): package with basic tools and
+    * [base-devel](https://archlinux.org/packages/core/any/base-devel/) (): package with basic tools and
       libraries for development. Among them:
         * [autoconfig](https://archlinux.org/packages/core/any/autoconf/): automatically configuring source
           code. By `GNU`.
